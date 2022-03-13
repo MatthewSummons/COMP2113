@@ -43,16 +43,23 @@ double ComputeO(double x, double h)
   return sigmoid( (0.1 * x) + (1.5 * h));
 }
 
-// // Function: print the values stored in a 1D-array to screen
-// // Input: double xs[100]: the value of the sequence
-// //        int seq_len: the length of the sequence
-// {
-//   // ==========================
+// Function: print the values stored in a 1D-array to screen
+// Input: double xs[100]: the value of the sequence
+//        int seq_len: the length of the sequence
+void printArr(int arr[100], int arrSize)
+{
+  int lastEle {arrSize - 1};
+  for (int i{0}; i < arrSize; i++)
+  {
+    
+    if (i != lastEle)
+      cout << arr[i] << " ";
+    else
+      cout << arr[i] << endl;
+  }
+}
 
-//   // Write your code here
 
-//   // ==========================
-// }
 
 // Function: main function
 int main()
@@ -60,19 +67,17 @@ int main()
   // ==========================
 
   // First Line Input
-  int T = 0;            // Recurrent Times (1 ≤ T ≤ 100)
+  int T;            // Recurrent Times (1 ≤ T ≤ 100)
   double hZero;     // Initial Hidden State
   cin >> T >> hZero;
   // Second Line Input
-  int TimeArray[T - 1];
-  for (int index = 0; index < T; index++)
+  int TimeArray[100];
+  for (int index {0}; index < T; index++)
   {
-      cin >> TimeArray[index];
+    cin >> TimeArray[index];
   }  
-  for (int i = 0; i < T; i++)
-  {
-      cout << TimeArray[i] << endl;
-  }
+  
+  printArr(TimeArray, T);
 
 
   // ==========================
