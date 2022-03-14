@@ -13,13 +13,10 @@ int findMax(int arr[], int arrSize)
   
   printArr(arr, arrSize);
   int max {0};
-  // =========
-  printArr(arr, arrSize);
-  // =========
   for (int i{0}; i < arrSize; i++)
   {
-    cout << "i: " << i << " arr[i] = " << arr[i] <<" max = " << max << endl;
-    if (arr[i] >= max)
+    // max stores the index of the current largest number in the array
+    if (arr[i] >= arr[max])
       {max = i;}
   }
 
@@ -53,12 +50,12 @@ int main()
   // Mode is the value with the highest frequency
   int mode = findMax(freq, freqLen);
   
-  // // Output frequencies of values and the mode for the data set
-  // for (int i {0}; i < freqLen; i++)
-  // {
-  //   cout << "Frequency of " << i << " is " << freq[i] << endl;
-  // }
-  // cout << "The mode is : " << mode << endl;
+  // Output frequencies of values and the mode for the data set
+  for (int i {0}; i < freqLen; i++)
+  {
+    cout << "Frequency of " << i << " is " << freq[i] << endl;
+  }
+  cout << "The mode is : " << mode << endl;
 
   return 0;
 }
