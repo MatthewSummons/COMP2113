@@ -1,7 +1,7 @@
 // Palindromic Numbers [1.cpp]
 // Output Palindromic Numbers in [M,N] which may be products
 //   of 2 three digit numbers
-// Created by Shaheer Ziya on UTC+08 23:35
+// Created by Shaheer Ziya
 
 /*
 General Layout of The Program

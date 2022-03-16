@@ -1,4 +1,6 @@
-// Program implementation of a Shift Cipher
+// Shift Cipher [3.cpp]
+// Implement an ecnryption/decryption algorithm in C++
+// Created by Shaheer Ziya
 
 /*
 General Layout of The Program
@@ -49,16 +51,6 @@ char changeCase(char x)
   // Do nothing if not an alphabet
   else
     return x;
-
-  // Test-cases for boundary-conditions
-  // cout << changeCase('@') << endl;
-  // cout << changeCase('A') << endl;
-  // cout << changeCase('Z') << endl;
-  // cout << changeCase('[') << endl;
-  // cout << changeCase('`') << endl;
-  // cout << changeCase('a') << endl;
-  // cout << changeCase('z') << endl;
-  // cout << changeCase('{') << endl;
 }
 
 // Encrypt or Decrypt a character  +/- shift value

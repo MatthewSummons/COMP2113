@@ -1,3 +1,7 @@
+// Recurrent Neural Netwroks [2.cpp]
+// Model RNNs in C++
+// Created by Shaheer Ziya
+
 // void PrintSeqs(double xs[100], int seq_len)
 #include <iostream>
 #include <iomanip>
