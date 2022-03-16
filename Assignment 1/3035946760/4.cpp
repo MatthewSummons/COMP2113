@@ -92,24 +92,22 @@ int main()
   PrintHand(hand);
 
   if (IsFourOfAKind(hand))
-    cout << "four of a kind" << endl;
+    cout << "four of a kind";
   else if (IsFullHouse(hand))
-    cout << "full house" << endl;
+    cout << "full house";
   else if (IsFlush(hand))
-    cout << "flush" << endl;
+    cout << "flush";
   else if (IsThreeOfAKind(hand))
-    cout << "three of a kind" << endl;
+    cout << "three of a kind";
   else if (IsTwoPair(hand))
-    cout << "two pair" << endl;
+    cout << "two pair";
   else if (IsOnePair(hand))
-    cout << "one pair" << endl;
+    cout << "one pair";
   else
-    cout << "others" << endl;
+    cout << "others";
+  
+  cout << endl;
 
-  
-
-  
-  
   return 0;
 }
 
