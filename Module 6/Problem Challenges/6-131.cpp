@@ -5,6 +5,7 @@
 // Transpose swaps the rows and columns of a matrix [ (A^T)^T = A ]
 // 90 DEG anticlockwise rotation is transpose of the original matrix followed by reversing its columns
 // 90 DEG clockwise rotation is transpose of the original matrix followed by reversing its rows
+// https://stackoverflow.com/questions/42519/how-do-you-rotate-a-two-dimensional-array
 
 #include <iostream>
 using namespace std;
