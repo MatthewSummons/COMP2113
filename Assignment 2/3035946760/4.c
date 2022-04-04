@@ -85,7 +85,11 @@ int main()
   s2 = partialEvenSum(sequence_reverse, seqLen);
 
   // Dislpay the reversed sequence
-  printf("%s\n", sequence_reverse);
+  for (int i= 0; i < seqLen; i++)
+  {
+    printf("%c", sequence_reverse[i]);
+  }
+  printf("\n");
   // Display the partial sums
   printf("%d %d\n", s1, s2);
   // Display if the input string was a valid number
