@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
   ofstream fout;
-  fout.open("c.txt");
+  fout.open("c.txt", ios::ate | ios::binary);
 
   if (fout.fail())
   {
