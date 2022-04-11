@@ -290,17 +290,25 @@ void grow_phonebook(PhoneRec * &pb, int &pb_size, int n)
 {
 	// Step 1:
 	// create a new dynamic array with a new size = max_size + n
+	PhoneRec* new_pb = new PhoneRec[pb_size + n];
 	
 	// Step 2:
 	// copy all the records from the original array to the new dynamic array
+	for (int i = 0; i < pb_size; i++)
+	{
+		new_pb[i] = pb[i];
+	}
 
 	// Step 3:
 	// destroy the old dynamic array to free up the memory allocated to it
+	delete [] pb;
 
 	// assign the pointer to the new dynamic array to the pointer variable
+	pb = new_pb;
 
 	// Step 4:
 	// update the size of the array
+	pb_size += n;
 
 
 	cout << "--->phonebook size enlarged to hold a maximum of " << pb_size << " records." << endl;
