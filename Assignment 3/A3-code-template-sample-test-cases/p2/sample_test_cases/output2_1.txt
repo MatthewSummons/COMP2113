@@ -1,0 +1,90 @@
+*** 5 most popular pages ***
+36:/msdownload
+32:/ie
+17:/products
+17:/search
+13:/sitebuilder
+*** 5 most active users ***
+23:10068
+- /activeplatform
+- /activex
+- /automap
+- /frontpage
+- /gallery
+- /ie
+- /intdev
+- /isapi
+- /java
+- /msdownload
+- /musicproducer
+- /office
+- /promo
+- /sbnmember
+- /search
+- /sitebuilder
+- /spain
+- /vbasic
+- /vbscript
+- /vinterdev
+- /vstudio
+- /windowsce
+- /workshop
+17:10021
+- /games
+- /ie
+- /isapi
+- /isp
+- /msdownload
+- /office
+- /organizations
+- /products
+- /sbnmember
+- /search
+- /sitebuilder
+- /smallbiz
+- /vstudio
+- /windows
+- /windows95
+- /windowssupport
+- /workshop
+14:10031
+- /athome
+- /ie
+- /iesupport
+- /intdev
+- /isapi
+- /kb
+- /msdownload
+- /msoffice
+- /netmeeting
+- /support
+- /supportnet
+- /windows
+- /windowssupport
+- /workshop
+13:10036
+- /exchange
+- /ie
+- /isapi
+- /kb
+- /msdownload
+- /office
+- /publisher
+- /scheduleplus
+- /sitebuilder
+- /windows
+- /windowssupport
+- /word
+- /workshop
+11:10019
+- /athome
+- /clipgallerylive
+- /games
+- /isapi
+- /kb
+- /logostore
+- /msdownload
+- /msoffice
+- /ntserver
+- /products
+- /search

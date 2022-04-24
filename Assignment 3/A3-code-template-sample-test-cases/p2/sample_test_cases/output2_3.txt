@@ -1,0 +1,24 @@
+*** 5 most popular pages ***
+3:/norge
+3:/powerpoint
+3:/search
+2:/sitebuilder
+1:/msoffice
+*** 5 most active users ***
+3:2
+- /norge
+- /powerpoint
+- /search
+3:3
+- /norge
+- /powerpoint
+- /sitebuilder
+3:4
+- /msoffice
+- /norge
+- /sitebuilder
+2:1
+- /powerpoint
+- /search
+1:5
+- /search
