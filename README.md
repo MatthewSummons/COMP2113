@@ -9,14 +9,23 @@ with the work.
 Contents:
 
 Module 1: Linux Environment
+
 Module 2: Shell Script + Version Control
+
 Module 3: C/C++ Basics
+
 Module 4: Makefile, Programming Style, Basic Debugging
+
 Module 5: Functions & Arrays
+
 Module 6: Arrays & Strings
+
 Module 7: File I/O, Structs & Recursion
+
 Module 8: Pointers & Memory Management
+
 Module 9: C Specifics and GDB debugger
+
 Module 10: C++ Standard Template Library
 
 
