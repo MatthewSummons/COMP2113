@@ -114,15 +114,16 @@ void obtain_num(char *& digits, int & num_digits) {
   
   int array_size = 32;
   digits = new char [array_size];   // Dynamic Array to store the digits
-  char chr;
-  int num_read;
+  
+  char chr = cin.get();
+  int num_read = 0;
 
   // Read digit characters untile a whitespace is read
-  chr = cin.get();
   while (!isspace(chr)) {
     
-    if (num_read >= array_size)
+    if (num_read >= array_size) {
       grow_array( digits, array_size );
+    }
     
     digits[num_read] =  chr;
     num_read++;
