@@ -1,0 +1,25 @@
+Input Sudoku board:
+2 1 6 | x 8 x | 7 x 9 
+x x x | 4 x x | x 6 x 
+x x x | 6 x 9 | 3 x x 
+------+-------+-------
+5 x x | x x x | x 8 x 
+x x x | 2 1 7 | x 5 6 
+1 6 x | x x x | x x x 
+------+-------+-------
+x x 8 | 1 5 2 | x 7 3 
+x 7 1 | x x x | x x x 
+x 5 x | 7 4 x | x x 1 
+
+Final Sudoku board:
+2 1 6 | x 8 x | 7 4 9 
+x x x | 4 x x | x 6 x 
+x x x | 6 x 9 | 3 x x 
+------+-------+-------
+5 x x | x x x | x 8 x 
+x x x | 2 1 7 | x 5 6 
+1 6 x | x x x | x x x 
+------+-------+-------
+x x 8 | 1 5 2 | x 7 3 
+x 7 1 | x x x | x x x 
+x 5 x | 7 4 x | x x 1 
