@@ -1,6 +1,6 @@
 # COMP2113
  Introduction to C++ & Shell
- HKU Sptring Course divided into 10 modules that go through the fundamentals of the
+ HKU Spring Course divided into 10 modules that go through the fundamentals of the
  command line, shell scripts & C/C++ programming.
 
 Module 0 is just setup for the HKU CS server and is not neccessary for following along
