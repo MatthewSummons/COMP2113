@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+
+# macOS folder metadata
+.AppleDouble
+.LSOverride
+
+# macOS thumbnail cache files
+._*
+
+# macOS files that store extended attributes and resource forks
+.Spotlight-V100
+.Trashes
+__MACOSX
+
+# macOS temporary files
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
