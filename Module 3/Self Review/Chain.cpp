@@ -1,6 +1,6 @@
 // Chain.cpp
 // Chaining shortahand operators += etc
-// Created by Shaheer Ziya
+// Created by REDACTED
 
 #include <iostream>
 

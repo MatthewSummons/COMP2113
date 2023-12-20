@@ -1,6 +1,6 @@
 // Q4.cpp
 // Print remainder and quotient of two ints taken from user
-// Created by Shaheer Ziya on UTC 09:20
+// Created by REDACTED on UTC 09:20
 
 #include <iostream>
 

@@ -1,6 +1,6 @@
 // "Rolling" Average.cpp
 // Finds the average of 5 numbers using only 2 variables
-// Created by Shaheer Ziya
+// Created by REDACTED
 
 #include <iostream>
 

@@ -1,6 +1,6 @@
 // Q1.cpp
 // Print a large HI
-// Created by Shaheer Ziya on UTC 09:08
+// Created by REDACTED on UTC 09:08
 
 #include <iostream>
 

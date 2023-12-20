@@ -1,6 +1,6 @@
 // C4.cpp
 // Reverse a 3 digit number
-// Created by Shaheer Ziya
+// Created by REDACTED
 
 #include <iostream>
 

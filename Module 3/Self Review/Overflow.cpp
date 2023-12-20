@@ -1,6 +1,6 @@
 // Overflow.cpp
 // Tackling with Overflow
-// Created by Shaheer Ziya on UTC 09:08
+// Created by REDACTED on UTC 09:08
 
 #include <iostream>
 
