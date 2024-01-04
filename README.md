@@ -1,41 +1,41 @@
 # COMP2113
  Introduction to C++ & Shell
  HKU Spring Course divided into 10 modules that go through the fundamentals of the
- command line, shell scripts & C/C++ programming.
+ the command line, shell scripts & C/C++ programming.
 
 Module 0 is just setup for the HKU CS server and is not neccessary for following along
 with the work.
 
 ## Contents
 
-### Module 1: Linux Environment
+**Module 1: Linux Environment**
 
 
-### Module 2: Shell Script + Version Control
+**Module 2: Shell Script + Version Control**
 
 
-### Module 3: C/C++ Basics
+**Module 3: C/C++ Basics**
 
 
-### Module 4: Makefile, Programming Style, Basic Debugging
+**Module 4: Makefile, Programming Style, Basic Debugging**
 
 
-### Module 5: Functions & Arrays
+**Module 5: Functions & Arrays**
 
 
-### Module 6: Arrays & Strings
+**Module 6: Arrays & Strings**
 
 
-### Module 7: File I/O, Structs & Recursion
+**Module 7: File I/O, Structs & Recursion**
 
 
-### Module 8: Pointers & Memory Management
+**Module 8: Pointers & Memory Management**
 
 
-### Module 9: C Specifics and GDB debugger
+**Module 9: C Specifics and GDB debugger**
 
 
-### Module 10: C++ Standard Template Library
+**Module 10: C++ Standard Template Library**
 
 
 ## _Note_
